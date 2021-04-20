@@ -1,0 +1,16 @@
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netcoreapp10.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.deps.json
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.runtimeconfig.json
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.runtimeconfig.dev.json
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.pdb
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.pdb
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.csprojResolveAssemblyReference.cache
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.AssemblyInfo.cs
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.csproj.CopyComplete
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Tests\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Tests.pdb

@@ -1,0 +1,8 @@
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.deps.json
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.csprojResolveAssemblyReference.cache
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.pdb
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.dll
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp1.1\Alura.LeilaoOnline.Core.pdb

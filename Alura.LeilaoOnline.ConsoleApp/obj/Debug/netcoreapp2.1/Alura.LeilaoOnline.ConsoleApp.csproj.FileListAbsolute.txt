@@ -1,0 +1,2 @@
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
