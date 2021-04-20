@@ -1,2 +1,3 @@
 # Alura.LeilaoOnline
- TDD and xUnit
+Projeto com algumas funções para testar os Testes Unitários.
+TDD and xUnit
